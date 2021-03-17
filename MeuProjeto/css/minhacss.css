@@ -1,0 +1,163 @@
+body{
+   
+    background-color: rgb(77, 144, 88);
+    
+    color: black;
+}
+#header {
+    margin: auto;
+    width: 50%;
+    height: 50%;
+     
+
+}
+#left{
+    width: 10%;
+    background-color: blue;
+    font-size: 18px;
+    color: blue;
+    float: right;
+}
+#content{
+    width: 70%;
+    background-color: black;
+    font-size: 18px;
+    color: blue;
+    float: right;
+}
+#footer{
+    width: 70%;
+    background-color: black;
+    font-size: 18px;
+    color: blue;
+    float: right;
+
+}
+.coluna1{
+    width: 50%;
+    background-color: red;
+    font-size: 18px;
+    color: blue;
+    float: right;
+
+}
+.coluna2{
+    width: 40%;
+    background-color: yellow;
+    font-size: 18px;
+    color: blue;
+    float: right;
+
+}
+.tabela{
+    width: 500px;
+    height: 150px;
+    background-color: white;
+    border-radius: 5px;
+
+
+}
+.tabela1{
+    width: 70%;
+    height: 50%;
+    background-color: white;
+    border-radius: 5px;
+    
+
+}
+p{
+  text-align: center; 
+  color: black;
+  font-size: 25px;
+}
+h1{
+    color: rgb(40, 22, 56);
+}
+.card{
+      box-shadow: 1px 1px 5px  #ccc;
+      background-color: white;
+      padding: 30px;
+      border-radius: 5px ;
+}
+.formL{
+      width: 300px;
+      margin: auto;
+      padding-top: 40px;
+
+}
+.formulario1>input{
+    width: 300px;
+    height: 30px;
+}
+ 
+.card-top{
+      text-align: center;
+}
+.card-group{
+    margin-bottom: 10px;
+}
+.card-group> label{
+      width: 100%;
+      color: black;
+      display: block;
+}
+.card-group> input{
+    border-radius: 5px;
+    outline: 0;
+    width: 100%;
+    height: 30px;
+    padding: 5px;
+}
+.card-group> button{
+    background-color: rgb(137, 199, 137);
+    width: 100%;
+    border-radius: 30px;
+    padding: 15px;
+    font-size: 18px;
+    border: 0px;
+    outline: 0;
+}
+.selecao{
+    width: 300px;
+    height: 30px;
+}
+.formulario1>label{
+    display: block;
+    font-size: 30px;
+      
+}
+.buttonComprar{
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    border: 0px;
+    outline: 0;
+}
+.ambienteAprend{
+    margin: auto;
+    width: 1000px;
+    height:500px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+
+ul li {
+    margin: center;
+    display: inline-block;
+    padding-left:50px;
+    padding-right: 5px;
+}
+.buttonI{
+    margin-left:80%;
+    padding: 0px;
+    border-radius: 5px;
+    height: 5px;
+   
+}
+a>button{
+            width: 100px;
+            height: 40px;
+            border-radius: 5px;
+            background-color: rgb(220, 243, 225);
+}
